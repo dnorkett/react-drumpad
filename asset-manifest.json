@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-drumpad/static/css/main.33422c82.chunk.css",
+    "main.js": "/react-drumpad/static/js/main.ac7e3b3d.chunk.js",
+    "main.js.map": "/react-drumpad/static/js/main.ac7e3b3d.chunk.js.map",
+    "runtime-main.js": "/react-drumpad/static/js/runtime-main.3031262c.js",
+    "runtime-main.js.map": "/react-drumpad/static/js/runtime-main.3031262c.js.map",
+    "static/js/2.4f5ac418.chunk.js": "/react-drumpad/static/js/2.4f5ac418.chunk.js",
+    "static/js/2.4f5ac418.chunk.js.map": "/react-drumpad/static/js/2.4f5ac418.chunk.js.map",
+    "index.html": "/react-drumpad/index.html",
+    "precache-manifest.026d7042873265d5cdd96fc99c932900.js": "/react-drumpad/precache-manifest.026d7042873265d5cdd96fc99c932900.js",
+    "service-worker.js": "/react-drumpad/service-worker.js",
+    "static/css/main.33422c82.chunk.css.map": "/react-drumpad/static/css/main.33422c82.chunk.css.map",
+    "static/js/2.4f5ac418.chunk.js.LICENSE.txt": "/react-drumpad/static/js/2.4f5ac418.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3031262c.js",
+    "static/js/2.4f5ac418.chunk.js",
+    "static/css/main.33422c82.chunk.css",
+    "static/js/main.ac7e3b3d.chunk.js"
+  ]
+}
