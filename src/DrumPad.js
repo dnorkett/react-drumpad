@@ -1,7 +1,8 @@
 import React from 'react';
 import './App.css';
 
-const soundLocation = '/files/';
+//soundLocation added to hosted location to work around code camp issue
+const soundLocation = 'https://donnorkett.com/files/sounds/';
 
 class DrumPad extends React.Component {
     constructor(props){

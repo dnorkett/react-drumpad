@@ -5,7 +5,7 @@
 }
 
 #drum-machine {
-  background-image: url(/files/background.jfif);
+  background-image: url(./background.jfif);
   height: 100vh;
   display: flex;  
   align-items: center;
