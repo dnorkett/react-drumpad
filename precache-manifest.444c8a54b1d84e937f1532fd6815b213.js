@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa7a29e92081feb8cefc84cf31a0fc3b",
+    "revision": "d82bfbf725a59eea54bc9be8e6f964bd",
     "url": "/react-drumpad/index.html"
   },
   {
-    "revision": "f9daf0f0db695c7bf748",
-    "url": "/react-drumpad/static/css/main.33422c82.chunk.css"
+    "revision": "63c1158a28249123b167",
+    "url": "/react-drumpad/static/css/main.68564f3d.chunk.css"
   },
   {
     "revision": "1bf6ad947639f43ad7af",
@@ -16,11 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-drumpad/static/js/2.4f5ac418.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f9daf0f0db695c7bf748",
-    "url": "/react-drumpad/static/js/main.ac7e3b3d.chunk.js"
+    "revision": "63c1158a28249123b167",
+    "url": "/react-drumpad/static/js/main.4e4b0f81.chunk.js"
   },
   {
     "revision": "e436a03f2e890cf61731",
     "url": "/react-drumpad/static/js/runtime-main.3031262c.js"
+  },
+  {
+    "revision": "3a5f0281864f08d7c3d9fa6cb9c1db4d",
+    "url": "/react-drumpad/static/media/background.3a5f0281.jfif"
   }
 ]);
